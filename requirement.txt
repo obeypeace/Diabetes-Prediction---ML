@@ -1,0 +1,6 @@
+fastAPI
+uvicorn
+pydantic
+pickles
+scikit-learn
+numpy
